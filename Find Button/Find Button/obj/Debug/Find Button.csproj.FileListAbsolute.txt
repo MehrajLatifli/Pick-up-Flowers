@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Find Button.exe.config
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Find Button.exe
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Find Button.pdb
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Find Button.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Find_Button.Form1.resources
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Find_Button.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Find Button.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Find Button.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Find Button.exe
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Find Button.pdb

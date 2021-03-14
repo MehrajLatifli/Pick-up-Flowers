@@ -1,0 +1,35 @@
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Pick up Flowers.exe.config
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Pick up Flowers.exe
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Pick up Flowers.pdb
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\PickupFlowers.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Pick up Flowers.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Pick up Flowers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Pick up Flowers.exe
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Pick up Flowers.pdb
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\PickupFlowers.Form1.resources
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Pick up Flowers.xml
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Pick up Flowers.exe.manifest
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Pick up Flowers.application
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Pick up Flowers.TrustInfo.xml
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Pick up Flowers.exe.manifest
+C:\Users\Lenovo\source\repos\Find Button\Find Button\obj\Debug\Pick up Flowers.application
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Pick up Flowers.exe.CodeAnalysisLog.xml
+C:\Users\Lenovo\source\repos\Find Button\Find Button\bin\Debug\Pick up Flowers.exe.lastcodeanalysissucceeded
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\bin\Debug\Pick up Flowers.exe.config
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\bin\Debug\Pick up Flowers.exe.manifest
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\bin\Debug\Pick up Flowers.application
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\bin\Debug\Pick up Flowers.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\bin\Debug\Pick up Flowers.exe
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\bin\Debug\Pick up Flowers.pdb
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\bin\Debug\Pick up Flowers.exe.CodeAnalysisLog.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\bin\Debug\Pick up Flowers.exe.lastcodeanalysissucceeded
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\obj\Debug\Pick up Flowers.csprojAssemblyReference.cache
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\obj\Debug\PickupFlowers.Form1.resources
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\obj\Debug\PickupFlowers.Properties.Resources.resources
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\obj\Debug\Pick up Flowers.csproj.GenerateResource.cache
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\obj\Debug\Pick up Flowers.csproj.CoreCompileInputs.cache
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\obj\Debug\Pick up Flowers.TrustInfo.xml
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\obj\Debug\Pick up Flowers.exe.manifest
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\obj\Debug\Pick up Flowers.application
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\obj\Debug\Pick up Flowers.exe
+A:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\1\2) Example for Label, MouseHover(Event)\Find Button\Find Button\obj\Debug\Pick up Flowers.pdb
